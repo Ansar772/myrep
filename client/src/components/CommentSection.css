@@ -1,0 +1,23 @@
+.comments-section {
+    background: white;
+    border-radius: 12px;
+    padding: 1.5rem;
+    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
+}
+
+.comments-section h2 {
+    margin: 0 0 1.5rem 0;
+    color: #333;
+    font-size: 1.5rem;
+}
+
+.no-post-selected {
+    text-align: center;
+    padding: 3rem 1rem;
+    color: #999;
+}
+
+.no-post-selected p {
+    font-size: 1.1rem;
+    margin: 0;
+}
